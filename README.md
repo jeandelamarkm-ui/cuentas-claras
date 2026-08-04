@@ -6,7 +6,7 @@ App completa de control de gastos en español, en **un solo archivo HTML** — s
 
 ## Usar la app
 
-- **En línea:** abre la página de GitHub Pages de este repositorio.
+- **En línea:** **https://jeandelamarkm-ui.github.io/cuentas-claras/**
 - **Local / sin internet:** descarga `index.html` y ábrelo con doble clic. Funciona igual.
 
 > Los datos se guardan en el `localStorage` del navegador donde la uses. Cada navegador/dispositivo tiene sus propios datos; para moverlos usa **Ajustes → Exportar respaldo (JSON)** e impórtalo en el otro dispositivo.
